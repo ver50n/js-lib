@@ -1,1 +1,41 @@
+/* === Custom CSS ===*/
+.expense-item {
+  border: 1px solid #CCC;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 5px;
+}
 
+/* === Nextset Reset === */
+.document_back {
+  background: white !important;
+}
+
+.header_table {
+  display: none !important;
+}
+
+.document_form .nav {
+  display: flex !important;
+}
+
+.document_form .nav li {
+  list-style: none !important;
+}
+
+.div.document_form .nav-tabs {
+  padding-left: 0 !important;
+}
+
+.div.document_form .nav-link {
+  display: block !important;
+}
+
+.document_body, .document_form {
+  width: 100% !important;
+}
+
+/* === BootStrap overwrite === */
+.fs-7 {
+  font-size: 0.875rem;
+}
