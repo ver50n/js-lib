@@ -43,6 +43,7 @@
     "request_date": "申請日",
 
     "purpose": "出張目的",
+    "please_select": "選んでください",
     "destination": "出張先",
     "trip_start": "出発日",
     "trip_end": "帰着日",
